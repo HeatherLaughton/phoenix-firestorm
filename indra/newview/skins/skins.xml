@@ -177,6 +177,28 @@
 
     <map>
       <key>name</key>
+      <string>alchemy</string>
+      <key>folder</key>
+      <string>alchemy</string>
+      <key>themes</key>
+      <array>
+        <map>
+          <key>name</key>
+          <string>Custom Dark</string>
+          <key>folder</key>
+          <string>custom_dark</string>
+        </map>
+        <map>
+          <key>name</key>
+          <string>Custom Light</string>
+          <key>folder</key>
+          <string>custom_light</string>
+        </map>
+      </array>
+    </map>
+    <map>
+
+      <key>name</key>
       <string>Vintage</string>
       <key>folder</key>
       <string>vintage</string>
